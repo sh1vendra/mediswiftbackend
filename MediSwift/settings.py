@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-70vp!&c_mg!slszr4v0q23xhcz5)!6r5x)s!!zfsjwvy8x3e@q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', "127.0.0.1"]
+ALLOWED_HOSTS = ['localhost', "127.0.0.1", "mediswiftbackend-production.up.railway.app"]
 
 
 # Application definition
